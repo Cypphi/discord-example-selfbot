@@ -1,0 +1,17 @@
+{
+  "name": "selfbot-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.10.6",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}
